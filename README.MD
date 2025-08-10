@@ -1,3 +1,6 @@
+# fastpong-game
+
+
 fastpong/
 ├─ main.py
 ├─ requirements.txt
@@ -36,5 +39,6 @@ Send explicit hit events from server to play stronger sounds on collisions.
 Add acceleration, spin, power-ups, or special colorful particle effects on collisions.
 
 Add chat or spectator mode /spectate.
+
 
 Add authentication or rooms so multiple matches can run.
