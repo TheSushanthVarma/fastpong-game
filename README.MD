@@ -33,7 +33,7 @@ If you cannot connect from phones, ensure your laptop firewall allows inbound TC
 
 For public access across Internet you’d need port forwarding / public IP — not required for LAN.
 
-Extending & improvements (ideas)
+(plan) Extending & improvements
 Send explicit hit events from server to play stronger sounds on collisions.
 
 Add acceleration, spin, power-ups, or special colorful particle effects on collisions.
@@ -42,3 +42,4 @@ Add chat or spectator mode /spectate.
 
 
 Add authentication or rooms so multiple matches can run.
+
